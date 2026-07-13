@@ -1,0 +1,18 @@
+# Core Data Analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+
+# Machine Learning
+scikit-learn
+xgboost
+scipy
+
+# Explainable AI
+shap
+
+# Notebook Environment
+jupyterlab
+notebook
